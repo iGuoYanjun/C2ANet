@@ -1,5 +1,6 @@
-# C$^{2}$ANet:Cross-Scale and Cross-modality Aggregation Network for Scene Depth Super-Resolution
+# C$$^{2}$$ANet:Cross-Scale and Cross-modality Aggregation Network for Scene Depth Super-Resolution
 
 
+This repo implements the training and testing of depth upsampling networks for "C2ANet: Cross-Scale and Cross-modality Aggregation Network for Scene Depth Super-Resolutionn" by Xinchen Ye and et al. at DLUT.
 
-This repo implements the training and testing of depth upsampling networks for "PMBANet: Progressive Multi-Branch Aggregation Network for Scene Depth Super-Resolution" by Xinchen Ye, Baoli Sun, and et al. at DLUT.
+We will update the code soon
