@@ -3,10 +3,10 @@ This repo implements the testing of depth upsampling networks for "C2ANet: Cross
 ## Installation
 The code requires pytorch>= 1.7.0 and python=3.7
 The mmcv is request, which can be installed by 
-'[pip install mmcv-full -f https://download.openmmlab.com/mmcv/dist/{cu_version}/{torch_version}/index.html'
+`pip install mmcv-full -f https://download.openmmlab.com/mmcv/dist/{cu_version}/{torch_version}/index.html`
 Please replace the original deform_conv.py with the file we provided.
 ## quick test
-"python test_middlebury.py"
+`python test_middlebury.py`
 ## download pretrained models and test data
 Link of weights: https://pan.baidu.com/s/1145CqN68BaCyVTO6rczgTg 
 pwd：3cad
